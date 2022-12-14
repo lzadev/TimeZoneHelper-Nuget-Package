@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+	  <Version>1.0.1</Version>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Title>TimeZoneHelper</Title>
+    <Authors>Luis Zabala - lzadev</Authors>
+    <Description>This package provides a method to return the DateTime for a specific TimeZone</Description>
+  </PropertyGroup>
+
+</Project>
